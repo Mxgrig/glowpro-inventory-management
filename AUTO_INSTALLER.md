@@ -23,7 +23,7 @@
 
 ```bash
 # Run this command to auto-install everything
-curl -sSL https://raw.githubusercontent.com/[repo]/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/Mxgrig/glowpro-inventory-management/main/install.sh | bash
 ```
 
 ---

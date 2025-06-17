@@ -1,0 +1,41 @@
+A,B,C,D,E,F,G,H
+➕ QUICK ADD INVENTORY,,,,,,,
+,,,,,,,
+🚀 QUICK STOCK UPDATE,,,,,,,
+,,,,,,,
+Select Product:,[Dropdown],,Quantity Change:,0,,📝 Transaction Type:,[Dropdown]
+Current Stock:,--,,New Stock Level:,--,,📅 Date:,=TODAY()
+Location:,--,,Notes:,,,🔄 UPDATE STOCK,
+,,,,,,,
+,,,,,,,
+📋 RECENT TRANSACTIONS,,,,,,,
+,,,,,,,
+Date,Product,Change,Type,New Stock,User,Notes,
+2024-01-15,MAC Ruby Woo Lipstick,+24,Stock Received,36,System,Supplier delivery
+2024-01-15,Fenty Beauty Foundation 210,-12,Sale,24,System,Bulk customer order
+2024-01-14,The Ordinary Niacinamide Serum,+30,Stock Received,55,System,Restock from supplier
+2024-01-14,Urban Decay Eyeshadow Palette,-3,Sale,1,System,Individual sales
+2024-01-13,OPI Nail Polish Classic Red,+15,Stock Received,23,System,New inventory batch
+2024-01-13,Drunk Elephant Vitamin C,-2,Sale,0,System,Last units sold
+2024-01-12,Charlotte Tilbury Lipstick,-1,Sale,3,System,Customer purchase
+2024-01-12,Glossier Boy Brow,+18,Stock Received,30,System,Supplier restock
+,,,,,,,
+,,,,,,,
+📱 MOBILE QUICK ENTRY,,,,,,,
+,,,,,,,
+Use your phone to update inventory on the go!,,,,,,,
+,,,,,,,
+1. Click the link below to open mobile form,,,,,,,
+2. Select product and enter quantity change,,,,,,,
+3. Choose transaction type (received/sold/damaged),,,,,,,
+4. Submit - inventory updates automatically!,,,,,,,
+,,,,,,,
+📲 [MOBILE FORM LINK],,,,,,,
+,,,,,,,
+💡 QUICK ADD TIPS,,,,,,,
+,,,,,,,
+• Use positive numbers for stock received (+10),,,,,,,
+• Use negative numbers for items sold (-5),,,,,,,
+• Always add notes for unusual transactions,,,,,,,
+• Check current stock before making changes,,,,,,,
+• Mobile form syncs automatically with main inventory,,,,,,,

@@ -1,0 +1,45 @@
+/* Beauty Pro Inventory System - Design System Colors */
+
+/* Primary Colors */
+:root {
+  --deep-charcoal: #2C3E50;     /* Headers, navigation */
+  --rose-gold: #E8B4B8;         /* Accents, buttons */
+  --cream-white: #F8F9FA;       /* Backgrounds */
+  
+  /* Status Colors */
+  --success: #27AE60;           /* Complete, healthy stock */
+  --warning: #F39C12;           /* Low stock, attention needed */
+  --critical: #E74C3C;          /* Out of stock, urgent */
+  --progress: #3498DB;          /* In progress, processing */
+  
+  /* Supporting Colors */
+  --warm-gray: #95A5A6;         /* Secondary text */
+  --pure-white: #FFFFFF;        /* Cards, containers */
+  --light-border: #DEE2E6;      /* Subtle divisions */
+  --dark-text: #566573;         /* Body text */
+}
+
+/* Google Sheets Hex Colors for Reference */
+/*
+Deep Charcoal: #2C3E50
+Rose Gold: #E8B4B8  
+Cream White: #F8F9FA
+Success Green: #27AE60
+Warning Orange: #F39C12
+Critical Red: #E74C3C
+Progress Blue: #3498DB
+Warm Gray: #95A5A6
+Pure White: #FFFFFF
+Light Border: #DEE2E6
+Dark Text: #566573
+*/
+
+/* Typography Scale */
+/*
+Headers: Bold, 14-16pt, #2C3E50
+Subheaders: Bold, 12pt, #2C3E50  
+Body Text: Regular, 10pt, #566573
+Captions: Regular, 9pt, #95A5A6
+Buttons: Bold, 11pt, White on colored background
+Status: Bold, 9pt, Colored backgrounds
+*/
